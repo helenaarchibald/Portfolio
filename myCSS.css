@@ -17,9 +17,6 @@ a:visited {
 a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
-body {
-	margin: 0 auto;
-}
 .homePage {
 	background: #BCC0E3;
 }
